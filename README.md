@@ -60,8 +60,10 @@ Doctor-Booking-App/
 
 ## 🧑‍💻 Contact
 
-Have questions or suggestions? 📧 Email: malikmuzamil92110@gmail.com 💼 https://www.linkedin.com/in/malik-muzamil/
+Have questions or suggestions? 📧 Email: malikmuzamil92110@gmail.com 
 
-“Success is not just about building something it's about solving real problems with purpose.”
+💼 https://www.linkedin.com/in/malik-muzamil/
+
+“Design adds value faster than it adds cost.”
 
 Built with ❤️ by MalickMuzamil Empowering businesses through clean code and creativity.
