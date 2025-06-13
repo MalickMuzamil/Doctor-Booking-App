@@ -1,5 +1,5 @@
 
-<h1 align="center">🩺 Doctor Booking App — Responsive & Functional UI</h1>
+<h1 align="center">🩺 Doctor Booking App (Responsive & Functional UI)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Bootstrap%20%2B%20HTML%20%2B%20CSS-blueviolet?style=for-the-badge" />
@@ -23,9 +23,9 @@
 ## 🛠️ Getting Started
 
 1. Clone the repository:
-git clone https://github.com/your-username/Doctor-Booking-App.git
+git clone https://github.com/MalickMuzamil/Doctor-Booking-App.git
 
-2.Open the project folder:
+2. Open the project folder:
 cd Doctor-Booking-App
 
 3. Run the app:
@@ -36,7 +36,7 @@ start index.html
 
 ✅ **No installation required works in any modern browser.**
 
-### 📁 Project Structure
+## 📁 Project Structure
 Doctor-Booking-App/
 ├── index.html           # Homepage with full layout
 ├── /css/                # Custom styles
@@ -46,7 +46,7 @@ Doctor-Booking-App/
 └── README.md
 
 
-### 📚 Learnings & Experience
+## 📚 Learnings & Experience
 
 ✅ **Learning in this Project:**
 
