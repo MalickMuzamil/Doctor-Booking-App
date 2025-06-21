@@ -60,9 +60,9 @@ Doctor-Booking-App/
 
 ## 🧑‍💻 Contact
 
-Have questions or suggestions? 📧 Email: malikmuzamil92110@gmail.com 
+Have questions or suggestions? 
+<!-- 📧 Email: malikmuzamil92110@example.com | 💼 LinkedIn: linkedin.com/in/malik-muzamil -->
 
-💼 https://www.linkedin.com/in/malik-muzamil/
 
 “Design adds value faster than it adds cost.”
 
